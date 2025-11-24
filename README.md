@@ -77,7 +77,7 @@ Designed a clean & user-friendly layout
 
 ## 📊 Dashboard Preview
 
-Bike_dashboard_Pacific.png
+[Bike_dashboard_Pacific.png](https://github.com/ShadQm/Bike_Purchasing_Excel_Project/blob/main/Bike_dashboard_Pacific.png)
 
 ## 🔍 Key Insights
 ### 👥 Age Group
