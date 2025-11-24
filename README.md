@@ -77,7 +77,7 @@ Designed a clean & user-friendly layout
 
 ## 📊 Dashboard Preview
 
-(Insert dashboard screenshot here)
+Bike_dashboard_Pacific.png
 
 ## 🔍 Key Insights
 ### 👥 Age Group
