@@ -1,6 +1,6 @@
 # 🚲 Bike Purchase Data Analysis — Interactive Excel Dashboard
 
-[Bike_Purchase_dashboard.png](https://github.com/ShadQm/Bike_Purchasing_Excel_Project/blob/main/Bike_Purchase_dashboard.png)
+![Bike_Purchase_dashboard.png](https://github.com/ShadQm/Bike_Purchasing_Excel_Project/blob/main/Bike_Purchase_dashboard.png)
 ## 📌 Project Objective
 
 Analyze customer demographics and behavioral patterns influencing bike purchases across three regions.
@@ -77,7 +77,7 @@ Designed a clean & user-friendly layout
 
 ## 📊 Dashboard Preview
 
-[Bike_dashboard_Pacific.png](https://github.com/ShadQm/Bike_Purchasing_Excel_Project/blob/main/Bike_dashboard_Pacific.png)
+![Bike_dashboard_Pacific.png](https://github.com/ShadQm/Bike_Purchasing_Excel_Project/blob/main/Bike_dashboard_Pacific.png)
 
 ## 🔍 Key Insights
 ### 👥 Age Group
